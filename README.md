@@ -18,7 +18,7 @@
 ``` THEN I am able to successfully create, update, and delete data in my database ```
 
 ## Video Walkthrough
-- Link: https://watch.screencastify.com/v/gwsoer8oZYn4NdkmTTHT
+- Link: https://watch.screencastify.com/v/3wF7Wc4OGrt4dUhGqmMy
 
 ## Credits
 Created by: [brt9029](www.github.com/brt9029 "GitHub Profile Link")
